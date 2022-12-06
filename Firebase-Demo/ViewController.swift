@@ -15,7 +15,7 @@ class ViewController: UIViewController {
         
         
         
-        print("Test")
+        print("Testing")
     }
 
 
